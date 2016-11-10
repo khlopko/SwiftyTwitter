@@ -4,10 +4,50 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>AccessProvider.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Client.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>CryptoWrapper.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Entities.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>Feed copy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+		<key>Feed.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
 		<key>SwiftyTwitter.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+		<key>Tools.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>UIComponents.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
@@ -18,6 +58,76 @@
 			<true/>
 		</dict>
 		<key>A22C0B551DB0FD7A0072890C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A22C0B7E1DB102F90072890C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A22C0B861DB102F90072890C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A22C0BAA1DB118D80072890C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A22C0BB21DB118D80072890C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A22C0BD21DB119E30072890C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A22C0BDA1DB119E30072890C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A23E3B9C1DB276B100E305FB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A23E3BA41DB276B100E305FB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A298DDB81DD5026700357106</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A298DDCA1DD502B900357106</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A298DDDB1DD502C300357106</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A298DE131DD5047800357106</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A298DE241DD504AD00357106</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A298DE2C1DD504AE00357106</key>
 		<dict>
 			<key>primary</key>
 			<true/>
