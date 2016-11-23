@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
+		<key>Animators.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
 		<key>Client.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -52,6 +57,16 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>A20643BE1DD91AE9002E8854</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A20643C61DD91AE9002E8854</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>A22C0B411DB0FD7A0072890C</key>
 		<dict>
 			<key>primary</key>

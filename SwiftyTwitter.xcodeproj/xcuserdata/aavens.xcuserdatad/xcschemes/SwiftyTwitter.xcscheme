@@ -78,6 +78,16 @@
                ReferencedContainer = "container:SwiftyTwitter.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A20643C61DD91AE9002E8854"
+               BuildableName = "AnimatorsTests.xctest"
+               BlueprintName = "AnimatorsTests"
+               ReferencedContainer = "container:SwiftyTwitter.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
