@@ -9,4 +9,19 @@
 import UIKit
 
 class ViewController: UIViewController {
+	
+	override var preferredStatusBarStyle: UIStatusBarStyle {
+		return .lightContent
+	}
+	
+	override func viewWillAppear(_ animated: Bool) {
+		super.viewWillAppear(animated)
+		navigationController?.navigationBar.shadowImage = UIImage()
+		navigationController?.navigationBar.setBackgroundImage(UIImage(), for: .default)
+		navigationController?.navigationBar.isTranslucent = false
+		navigationController?.navigationBar.barTintColor = .malibu
+		navigationController?.navigationBar.titleTextAttributes = [
+			NSForegroundColorAttributeName: UIColor.white,
+		]
+	}
 }
